@@ -15,4 +15,9 @@ There are three main approaches to building recommendation systems, these are co
 
 **Hybrid Recommendation** : This approach simply just combines the prior to approaches, hence reaping the reards of both approaches. 
 
-Although, each of these approaches have their pros and cons and these will be explored within this project. 
+Although, each of these approaches have their pros and cons and these will be explored within this project.
+
+
+## Data Collection and Preprocessing
+
+
