@@ -14,3 +14,5 @@ There are three main approaches to building recommendation systems, these are co
 **Collaborative Filtering** : This approach focuses on the similarity of the behaviour of users. It assumes that users who have similar behaviour or have agreed on a common product/service in the past will agree in the future. 
 
 **Hybrid Recommendation** : This approach simply just combines the prior to approaches, hence reaping the reards of both approaches. 
+
+Although, each of these approaches have their pros and cons and these will be explored within this project. 
