@@ -19,5 +19,5 @@ Although, each of these approaches have their pros and cons and these will be ex
 
 
 ## Data Collection and Preprocessing
-This step involves cleaning the data, removing duplicates and handling any missing data within columns. 
+This step involves cleaning the data, removing duplicates and handling any missing data within columns. But before any data is colected we must utilise the Spotify API to collect real time music data from Spotify. 
 
