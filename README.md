@@ -1,6 +1,6 @@
-# Restaurant-Recommendation-System
+# Spotify-Music-Recommendation-System
 
-![Alt](./Images/image.jpg)
+![Alt](./Images/image.png)
 
 ## What is a recommendation system?
 Recommendation systems are machine learning algorithms that use data to recommend items or content based on user specific behaviour, past preferences or a combination of both. These systems can recommend various ietms such as books, movies, music etc. For this project we will be creating a recommendation system to suggest Spotify music to users based on their behaviour.
