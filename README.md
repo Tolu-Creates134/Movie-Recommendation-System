@@ -3,7 +3,7 @@
 ![Alt](./Images/image.jpg)
 
 ## What is a recommendation system?
-Recommendation systems are machine learning algorithms that use data to recommend items or content based on user specific behaviour, past preferences or a combination of both. These systems can recommend various ietms such as books, movies, music etc. For this project we will be creating a recommendation system to suggest restuarants to users based on their behaviour.
+Recommendation systems are machine learning algorithms that use data to recommend items or content based on user specific behaviour, past preferences or a combination of both. These systems can recommend various ietms such as books, movies, music etc. For this project we will be creating a recommendation system to suggest Spotify music to users based on their behaviour.
 
 ### Types of recommendation systems
 
@@ -19,5 +19,5 @@ Although, each of these approaches have their pros and cons and these will be ex
 
 
 ## Data Collection and Preprocessing
-
+This step involves cleaning the data, removing duplicates and handling any missing data within columns. 
 
