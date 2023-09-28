@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-![Alt](./Images/frontiers-big-data-song-recommendation-system-ai.jpg.webp)
+![Alt](./Images/netflix_movies_cover.jpg.webp)
 
 ## What is a recommendation system?
 Recommendation systems are machine learning algorithms that use data to recommend items or content based on user specific behaviour, past preferences or a combination of both. These systems can recommend various ietms such as books, movies, music etc. For this project we will be creating a recommendation system to suggest movies and shows to Netflix users based on their watching behaviour.
